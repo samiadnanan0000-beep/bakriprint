@@ -1,0 +1,6 @@
+{
+  "name": "Bakri Print",
+  "description": "Futuristic Liquid Glassmorphism signage calculator, client order tracking, printing press vendor ledger, and dual SMS/WhatsApp messenger for advertising and decor studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
